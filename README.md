@@ -1,2 +1,2 @@
 # naiveBayes
-SPAM vs. NON-SPAM Email Classification through Naïve Bayes
+The project is a Naïve Bayes classifier from scratch to detect and classify SPAM emails using Python and NumPy.
